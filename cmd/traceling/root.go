@@ -8,9 +8,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/chinny/traceling/internal/lighten"
-	"github.com/chinny/traceling/internal/pdfwriter"
-	"github.com/chinny/traceling/internal/render"
+	"github.com/chinny-labs/traceling/internal/lighten"
+	"github.com/chinny-labs/traceling/internal/pdfwriter"
+	"github.com/chinny-labs/traceling/internal/render"
 )
 
 var (

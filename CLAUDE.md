@@ -42,7 +42,7 @@ internal/
 - The round-trip test re-renders written PDFs through go-fitz to catch
   structural PDF bugs.
 
-**Module path:** `github.com/chinny/traceling`
+**Module path:** `github.com/chinny-labs/traceling`
 
 ## Releases
 

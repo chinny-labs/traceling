@@ -1,5 +1,5 @@
 BINARY := traceling
-PKG    := github.com/chinny/traceling/cmd/traceling
+PKG    := github.com/chinny-labs/traceling/cmd/traceling
 VERSION := $(shell git describe --tags --always --dirty 2>/dev/null || echo dev)
 COMMIT  := $(shell git rev-parse --short HEAD 2>/dev/null || echo none)
 DATE    := $(shell date -u +%Y-%m-%dT%H:%M:%SZ)
