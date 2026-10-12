@@ -1,6 +1,6 @@
 # traceling
 
-[![CI](https://github.com/chinny/traceling/actions/workflows/ci.yml/badge.svg)](https://github.com/chinny/traceling/actions/workflows/ci.yml)
+[![CI](https://github.com/chinny-labs/traceling/actions/workflows/ci.yml/badge.svg)](https://github.com/chinny-labs/traceling/actions/workflows/ci.yml)
 
 Turn coloring-page PDFs into light-grey tracing pages for kids.
 
@@ -11,7 +11,7 @@ scales linearly.
 ## Install
 
 Download a prebuilt binary for your platform from the
-[latest release](https://github.com/chinny/traceling/releases/latest)
+[latest release](https://github.com/chinny-labs/traceling/releases/latest)
 (linux amd64/arm64, macOS amd64/arm64, windows amd64), unpack it, and put
 `traceling` on your `PATH`. Binaries are self-contained — MuPDF is statically
 linked.
@@ -19,7 +19,7 @@ linked.
 Or build from source (requires Go and a C toolchain):
 
 ```sh
-make install   # or: go install github.com/chinny/traceling/cmd/traceling@latest
+make install   # or: go install github.com/chinny-labs/traceling/cmd/traceling@latest
 ```
 
 ## Usage

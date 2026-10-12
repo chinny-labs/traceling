@@ -1,4 +1,4 @@
-module github.com/chinny/traceling
+module github.com/chinny-labs/traceling
 
 go 1.26
 
