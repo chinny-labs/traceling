@@ -3,7 +3,7 @@ module github.com/chinny-labs/traceling
 go 1.26
 
 require (
-	github.com/gen2brain/go-fitz v1.28.2
+	github.com/gen2brain/go-fitz v1.28.3
 	github.com/spf13/cobra v1.10.2
 )
 
